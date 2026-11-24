@@ -21,7 +21,9 @@
   
   <img height="170em" src="https://streak-stats.demolab.com?user=Aksrapak&theme=tokyonight&hide_border=true"/>
 </div>
-
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksrapak&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
 ---
 
 ### 📫 ช่องทางติดต่อ (Connect with me)
