@@ -1,3 +1,13 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Aksrapak&label=Profile%20views&color=0e75b6&style=flat" alt="Aksrapak" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aksrapak+%F0%9F%91%8B;Computer+Science+%2F+Software+Student;Python+%26+Java+Developer;Open+for+Internship+%26+Collaboration!" alt="Typing SVG" />
+  </a>
+</div>
+
 ### สวัสดีค่ะ อักษราภัค อึ้งวิจิตรอำไพ👋
 
 - 🌱 **กำลังศึกษา:** มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน
