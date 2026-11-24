@@ -35,6 +35,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksrapak&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 ---
+### 💡 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+---
 
 ### 📫 ช่องทางติดต่อ (Connect with me)
 
